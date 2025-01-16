@@ -58,7 +58,7 @@ if ($text === '/start') {
         'reply_markup' => json_encode([
             'inline_keyboard' => [
                 [
-                    ['text' => 'Play DogeFarm Now', 'web_app' => ['url' => 'https://app.companybro.com']],
+                    ['text' => 'Play DogeFarm Now', 'web_app' => ['url' => 'https://doge-bot-coin-karim-mohamed-fathys-projects.vercel.app']],
                     ['text' => 'Join Our Community', 'url' => 'https://t.me/DogeFarmCommunity']]
             ]
         ])
